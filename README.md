@@ -1,7 +1,8 @@
 # mirror_wall_04
 👉WebUrl is a versatile Flutter application that consolidates multiple web browsers into a single platform, providing users with a seamless browsing experience. This app allows users to access various web pages through different built-in browsers, enabling them to switch effortlessly between their favorite sites. With a user-friendly interface, WebUrl supports bookmarks, private browsing, and tab management, enhancing the overall efficiency of web navigation. Additionally, it offers customization options, allowing users to tailor their browsing experience to their preferences. By unifying multiple browsers, WebUrl simplifies online exploration, making it an essential tool for tech-savvy users and casual surfers alike.
 
-💫 Features
+💫 Features.
+
 👉Back and Forward Navigation : Easily move between previously visited pages with dedicated back and forward buttons.
 👉Refresh : Reload the current page for the latest updates with a single tap.
 👉Delete History : Quickly clear your browsing history to maintain privacy and free up space.
