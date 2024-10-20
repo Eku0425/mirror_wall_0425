@@ -4,7 +4,9 @@
 💫 Features.
 
 👉Back and Forward Navigation : Easily move between previously visited pages with dedicated back and forward buttons.
+
 👉Refresh : Reload the current page for the latest updates with a single tap.
+
 👉Delete History : Quickly clear your browsing history to maintain privacy and free up space.
 
 
